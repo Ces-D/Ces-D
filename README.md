@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ces-D and I started coding this past year, I started with Python and decided I would focus on it until I was pro. 
+🔭 I’m currently working on ... building my own website
+🤔 I’m looking for help with ... working in collaboration. 
