@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ces-D and I started coding this past year, I started with Python and decided I would focus on it until I was pro. <br />
-🔭 I’m currently working on ... creating a student planner using Django, React and fullcalendar <br />
-🌱 I’m currently learning ... how to create a rest framework in order to implement React as my website frontend and Django as my backend. <br /> 
+My name is Ces-D and I started coding this past year, I started with Python and am now moving onto Javascript. There is so much to learn and I am excited to tackle this massive project. <br />
+🔭 I’m currently working on ... creating apps using javascript packages and frameworks. <br />
+🌱 I’m currently learning ...how to access news API's. <br /> 
 🤔 I’m looking for help with ... working in collaboration. 
