@@ -1,6 +1,7 @@
 <h2 align="center"> Rock On 🤘🎸 </h2>
 <br> 
-<img align="center" src="https://media.giphy.com/media/3oKIPEfOl9zDW2aE6s/giphy.gif"></img>
+<p align="center">
+<img src="https://media.giphy.com/media/3oKIPEfOl9zDW2aE6s/giphy.gif"></img></p>
 <br><br>
 <a target="_blank" href="https://github.com/Ces-D">
 <img src="https://img.shields.io/github/followers/ces-d?label=follow%20me&style=social">
