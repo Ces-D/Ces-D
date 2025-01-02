@@ -1,4 +1,4 @@
-<table align="center" border="none">
+<table align="center" border="0">
   <tbody>
     <td>
       <h2 style="padding-inline: 1.5rem; border-right: 1px solid black">
@@ -23,7 +23,7 @@
   />
 </div>
 
-<table align="center" border="none">
+<table align="center" border="0">
   <tbody>
     <td>
       <h3 style="font-weight: normal">Building, learning, developing.</h3>
