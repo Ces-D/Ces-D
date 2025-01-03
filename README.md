@@ -1,20 +1,13 @@
-<table align="center">
-      <tbody>
-        <td>
-          <h2 style="padding-inline: 1.5rem; border-right: 1px solid black">
-            Hi, I'm Cesar
-          </h2>
-        </td>
-        <td>
-          <h2 style="padding-inline: 1.5rem; border-right: 1px solid black">
-            Full Stack Developer
-          </h2>
-        </td>
-        <td>
-          <h2 style="padding-inline: 1.5rem">Rock On</h2>
-        </td>
-      </tbody>
-    </table>
+<h2
+  style="
+    padding-inline: 1.5rem;
+    border-right: 1px solid black;
+    text-align: center;
+  "
+>
+  Hi, I'm Cesar | Full Stack Developer | Rock On
+</h2>
+<hr />
 
 <div align="center">
   <img
@@ -39,11 +32,11 @@
 <details open style="margin-block: 1.5rem">
   <summary><b>Most Used Technology</b></summary>
   <br />
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-width="30"
-/>
+  <div>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+      width="30"
+    />
 
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
@@ -95,31 +88,33 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 width="30"
 />
 
+</div>
 </details>
 
 <details open style="margin-block: 1.5rem">
   <summary><b>Most Used Language</b></summary>
   <br />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    width="30"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    width="30"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    width="30"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    width="30"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
-    width="30"
-  />
+  <div>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+      width="30"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+      width="30"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+      width="30"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+      width="30"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+      width="30"
+    />
 
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
@@ -136,6 +131,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown
 width="30"
 />
 
+</div>
 </details>
 
 <div align="center">
