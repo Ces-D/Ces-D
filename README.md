@@ -1,12 +1,6 @@
-<h2
-  style="
-    padding-inline: 1.5rem;
-    border-right: 1px solid black;
-    text-align: center;
-  "
->
-  Hi, I'm Cesar | Full Stack Developer | Rock On
-</h2>
+<div align="center">
+  <h2>Hi, I'm Cesar | Full Stack Developer | Rock On</h2>
+</div>
 <hr />
 
 <div align="center">
@@ -32,7 +26,7 @@
 <details open style="margin-block: 1.5rem">
   <summary><b>Most Used Technology</b></summary>
   <br />
-  <div>
+  <p align="left">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
       width="30"
@@ -88,13 +82,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 width="30"
 />
 
-</div>
+</p>
 </details>
 
 <details open style="margin-block: 1.5rem">
   <summary><b>Most Used Language</b></summary>
   <br />
-  <div>
+  <p align="left">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
       width="30"
@@ -131,7 +125,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown
 width="30"
 />
 
-</div>
+</p>
 </details>
 
 <div align="center">
