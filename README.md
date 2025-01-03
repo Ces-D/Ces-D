@@ -1,20 +1,20 @@
-<table align="center" border="0">
-  <tbody>
-    <td>
-      <h2 style="padding-inline: 1.5rem; border-right: 1px solid black">
-        Hi, I'm Cesar
-      </h2>
-    </td>
-    <td>
-      <h2 style="padding-inline: 1.5rem; border-right: 1px solid black">
-        Full Stack Developer
-      </h2>
-    </td>
-    <td>
-      <h2 style="padding-inline: 1.5rem">Rock On</h2>
-    </td>
-  </tbody>
-</table>
+<table align="center">
+      <tbody>
+        <td>
+          <h2 style="padding-inline: 1.5rem; border-right: 1px solid black">
+            Hi, I'm Cesar
+          </h2>
+        </td>
+        <td>
+          <h2 style="padding-inline: 1.5rem; border-right: 1px solid black">
+            Full Stack Developer
+          </h2>
+        </td>
+        <td>
+          <h2 style="padding-inline: 1.5rem">Rock On</h2>
+        </td>
+      </tbody>
+    </table>
 
 <div align="center">
   <img
@@ -23,7 +23,7 @@
   />
 </div>
 
-<table align="center" border="0">
+<table align="center">
   <tbody>
     <td>
       <h3 style="font-weight: normal">Building, learning, developing.</h3>
@@ -39,46 +39,103 @@
 <details open style="margin-block: 1.5rem">
   <summary><b>Most Used Technology</b></summary>
   <br />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    height="30"
-    width="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    height="30"
-    width="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    height="30"
-    width="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-    height="30"
-    width="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    height="30"
-    width="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    height="30"
-    width="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    height="30"
-    width="30"
-  />
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+width="30"
+/>
+
 </details>
 
 <details open style="margin-block: 1.5rem">
   <summary><b>Most Used Language</b></summary>
   <br />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="30"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="30"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="30"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    width="30"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+    width="30"
+  />
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
+width="30"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"
+width="30"
+/>
+
 </details>
 
 <div align="center">
